@@ -1,0 +1,21 @@
+[
+{
+"TestCaseID": "TC1",
+    "noteCategory": "Home",
+    "noteTitle":"Harry Potter and the Chamber of Secrets",
+    "noteDescription": "This book is written by J. K. Rowling"
+},
+{     
+"TestCaseID": "TC2",
+    "noteCategory": "Work",
+    "noteTitle":"Harry Potter and the Goblet of Fires",
+    "noteDescription": "This book is written by J. K. Rowling"
+},
+{
+       
+"TestCaseID": "TC3",
+    "noteCategory": "Personal",
+    "noteTitle":"Harry Potter and the Order of the Phoenix",
+    "noteDescription": "This book is written by J. K. Rowling"
+}
+]

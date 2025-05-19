@@ -1,0 +1,14 @@
+[
+        {
+            "TestCase_ID": "TC_001",
+            "firstname": "Test",
+            "lastname": "API",
+            "totalprice": 200,
+            "depositpaid": true,
+            "bookingdates": {
+                "checkin": "2018-01-01",
+                "checkout": "2019-01-01"
+            },
+            "additionalneeds": "Lunch"
+        }
+]    
